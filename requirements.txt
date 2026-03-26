@@ -1,0 +1,8 @@
+streamlit==1.32.0
+tensorflow==2.15.0
+tensorflow-datasets
+opencv-python-headless
+pillow
+numpy
+pandas
+matplotlib
