@@ -1,5 +1,5 @@
 # AgroGuard AI: Crop Disease Identification System
-
+s
 AgroGuard AI is a computer vision application designed to help farmers identify plant diseases early. Using a Deep Learning model (MobileNetV2), it classifies leaf images and provides treatment recommendations.
 
 ## 🚀 Getting Started
