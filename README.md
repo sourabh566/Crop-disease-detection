@@ -14,7 +14,7 @@ pip install -r requirements.txt
 The current implementation initializes a MobileNetV2 model with ImageNet weights. To use your custom trained weights, modify `model.py`:
 ```python
 # In model.py
-model.load_weights('path_to_your_model_weights.h5')
+model.load_weights('path_to_your_model_weights.h5')jj
 ```
 
 ### 3. Running the App
