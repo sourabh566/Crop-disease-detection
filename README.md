@@ -7,7 +7,7 @@ AgroGuard AI is a computer vision application designed to help farmers identify 
 ### 1. Installation
 Clone the project and install the dependencies:
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txtm
 ```
 
 ### 2. Loading Pre-trained Weights
